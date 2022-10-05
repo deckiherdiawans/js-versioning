@@ -1,0 +1,18 @@
+{
+  "name": "rvt-versioning",
+  "version": "1.0.0",
+  "description": "File infomation generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rvt-versioning"
+  },
+  "author": "Decki Herdiawan Soepandi",
+  "license": "ISC",
+  "bin": {
+    "start": "./index.js"
+  }
+}
